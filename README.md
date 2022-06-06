@@ -1,3 +1,3 @@
 # Personal Website
 
-https://brett-constantinoff.github.io/website/index.html
+https://brett-constantinoff.github.io/website/
